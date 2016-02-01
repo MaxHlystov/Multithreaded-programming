@@ -1,1 +1,1 @@
-# Multithreaded-programming
+Многопоточное программирование
